@@ -5,7 +5,7 @@ List of URLs of unofficially machine-translated websites.
 ## Scope of curations
 
 The target websites are ones that **unofficially** retrieve and translate contents from other websites (e.g. StackOverflow, Quora) **with/without** the sources.
-Note that they do not include officially machine-translated documents (MSDN, Matlab Documents, etc.)
+Note that they do not include officially machine-translated documents (MSDN, MATLAB documents, etc.)
 
 Currently, websites translated into Japanese are mainly collected.
 
