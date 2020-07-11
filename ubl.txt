@@ -15,3 +15,17 @@
 *://www.code-adviser.com/*
 *://www.codetd.com/*
 *://www.it-swarm.dev/*
+*://www.greelane.com/*
+*://*.eferrit.com/*
+*://code-examples.net/*
+*://living-sun.com/*
+*://buginfo.tech/*
+*://*.codeflow.site/*
+*://bugsdb.com/*
+*://*.stackovernet.com/*
+*://www.aimz8.com/*
+*://*.dev4app.com/*
+*://www.itdaan.com/*
+*://stackanswers.net/*
+*://qaru.site/*
+*://my.oschina.net/*
