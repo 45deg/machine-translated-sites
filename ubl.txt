@@ -1,0 +1,17 @@
+*://*.it-swarm-*.tech/*
+*://www.it-swarm.dev/*
+*://stackoverrun.com/*
+*://www.codetd.com/*
+*://presmarymethuen.org/*
+*://*.strephonsays.com/*
+*://www.366service.com/*
+*://qastack.jp/*
+*://*.coder.work/*
+*://*.ojit.com/*
+*://code.i-harness.com/*
+*://*.voidcc.com/*
+*://tutorialmore.com/*
+*://kotaeta.com/*
+*://www.code-adviser.com/*
+*://codja.top/*
+*://*.programqa.com/*
