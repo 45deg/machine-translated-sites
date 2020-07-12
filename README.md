@@ -14,6 +14,8 @@ Currently, websites translated into Japanese are mainly collected.
 - `ubl.txt`
     - List of URLs with wildcards (`*`)
     - Sorted in ascending order
+    - Compatible with uBlacklist
+        - Subscription URL: https://raw.githubusercontent.com/45deg/machine-translated-sites/master/ubl.txt
 
 ## Contribution
 

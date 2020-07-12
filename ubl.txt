@@ -13,12 +13,14 @@
 *://code-examples.net/*
 *://code.i-harness.com/*
 *://codja.top/*
+*://githubja.com/*
 *://kotaeta.com/*
 *://living-sun.com/*
 *://my.oschina.net/*
 *://presmarymethuen.org/*
 *://qaru.site/*
 *://qastack.jp/*
+*://riptutorial.com/*
 *://stackanswers.net/*
 *://stackoverrun.com/*
 *://tutorialmore.com/*
