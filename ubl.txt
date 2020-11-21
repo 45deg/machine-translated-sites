@@ -31,6 +31,7 @@
 *://stackanswers.net/*
 *://stackoom.com/*
 *://stackoverrun.com/*
+*://steakrecords.com/*
 *://tutorialmore.com/*
 *://vimsky.com/*
 *://www.366service.com/*
