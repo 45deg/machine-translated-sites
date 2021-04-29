@@ -44,7 +44,7 @@
 *://qastack.jp/*
 *://question-it.com/*
 *://riptutorial.com/*
-*://runeb.dev/*
+*://runebook.dev/*
 *://stackanswers.net/*
 *://stackoom.com/*
 *://stackoverrun.com/*
