@@ -7,7 +7,7 @@
 *://*.debugcn.com/*
 *://*.dev4app.com/*
 *://*.eferrit.com/*
-*://*.it-swarm-*.tech/*
+*://*.it-swarm-*.*/*
 *://*.ojit.com/*
 *://*.programqa.com/*
 *://*.projectbackpack.org/*
@@ -15,6 +15,7 @@
 *://*.strephonsays.com/*
 *://*.thercb.org/*
 *://*.voidcc.com/*
+*://base64.work/*
 *://buginfo.tech/*
 *://bugsdb.com/*
 *://classmethod.dev/*
