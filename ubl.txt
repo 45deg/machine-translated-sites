@@ -7,7 +7,12 @@
 *://*.debugcn.com/*
 *://*.dev4app.com/*
 *://*.eferrit.com/*
-*://*.it-swarm-*.*/*
+*://*.it-swarm-*.app/*
+*://*.it-swarm-*.com/*
+*://*.it-swarm-*.dev/*
+*://*.it-swarm-*.net/*
+*://*.it-swarm-*.org/*
+*://*.it-swarm-*.tech/*
 *://*.ojit.com/*
 *://*.programqa.com/*
 *://*.projectbackpack.org/*
